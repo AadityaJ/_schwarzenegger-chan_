@@ -55,7 +55,8 @@ class Replacer(object):
         #print the result
         return (self.output)
 
-
+'''
 r = Replacer("Your desire is inside spiritual fulfillment")
 r.tokenize()
 print r.get_output()
+'''
